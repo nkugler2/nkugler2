@@ -1,5 +1,6 @@
 ---
 tags: liability_account
+normal balance: Credit
 ---
 ## Also known as
 [Accrued Liability](Accrued%20Liability.md)
