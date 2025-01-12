@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Noah, an Arizona State University student at the W.P.Carrey School of Business studying Business Data Analytics and Business Statistics. 
+I'm Noah, an Arizona State University student at the W.P. Carrey School of Business studying Business Data Analytics and Business Statistics. 
 
 My goal here is to work on various projects involving Data Analytics, Data Science, LLM's, and other fun tools including note taking in Obsidian.
 
